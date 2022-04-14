@@ -1,5 +1,5 @@
 # Lockdown ICU (Lockdemic.ICU)
-中文版本: https://github.com/lockdemic/Lockdemic.ICU/main/README.md
+中文版本: https://github.com/lockdemic/Lockdemic.ICU/blob/main/README.md
 
 Basic principles of “disaster relief”: secondary disasters caused by disaster relief should not exceed the disaster itself.
 
