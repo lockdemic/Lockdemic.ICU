@@ -1,5 +1,5 @@
 # 封城ICU (Lockdemic.ICU)
-English version: https://github.com/lockdemic/Lockdemic.ICU/main/README_en.md
+English version: https://github.com/lockdemic/Lockdemic.ICU/blob/main/README_en.md
 
 救灾基本原则：救灾所造成的次生灾害，不能超过灾害本身。
 
