@@ -3,14 +3,23 @@
 
 Basic principles of “disaster relief”: secondary disasters caused by disaster relief should not exceed the disaster itself.
 
-The secondary disasters caused by the extreme lockdown far outweighed Omicron itself.
-
 ("Great Lockdemic", the Great Lockdown Pandemic)
 
-## Deaths from secondary disasters due to extreme lockdown measures:
+## Deaths from secondary disasters due to extreme lockdown measures (verified):
 https://lockdemic.icu/
 ###### For the time being, only celebrities, medical workers, and other incidents of death or sacrifice from extreme epidemic prevention or lockdown measures that have received public and media attention can be counted. It is still difficult to count the real number of civilian deaths in secondary disasters caused by the closure of the city. In the statistical sense of public health, the actual number of cases is generally much higher than the number of cases that have received widespread public and media attention. If there are any unlisted case clues, please submit them in the Issues area: https://github.com/lockdemic/Lockdemic.ICU/issues
 
+## Other statistical calibers of deaths caused by the closure of the city (submitted by the family and friends of the deceased, etc., not publicly reported):
+https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN
+
+## Relevant laws and regulations
+### "Law of the People's Republic of China on the Prevention and Treatment of Infectious Diseases" [🔗](https://www.mee.gov.cn/ywgz/fgbz/fl/202002/t20200201_761166.shtml)
+#### Article 12, paragraph 2
+> If the health administrative department, other relevant departments, disease prevention and control institutions and medical institutions violate the lawful rights and interests of units and individuals by illegally implementing administrative management or prevention and control measures, the relevant units and individuals may apply for administrative reconsideration or file a lawsuit according to law.
+#### Article 58
+> Health administrative departments and their staff shall consciously accept the supervision of society and citizens when performing their duties. Units and individuals have the right to report violations of this Law to the people's government at a higher level and its health administrative department. The relevant people's government or its health administrative department that receives the report shall investigate and deal with it in a timely manner.
+
+## Omicron extreme pandemic prevention and city closure status
 Since the spread of Omicron around the world, while the infectivity of the new crown variant has increased significantly, the virus toxicity, severe rate, and fatality rate have all shown a cliff-like decline. In countries with high rates of effective vaccination, the public health hazard and fatality rate have been "relatively lower than seasonal influenza"*. Economic recovery, shift of policy focus, and recovery of the job market have become the main themes of the global economy and people's livelihood in 2022.
 
 In 2020, in the face of the original strain of the new crown with a very high fatality rate and a transmission rate far lower than that of Omicron, we effectively blocked the initial rampage of the original strain of the new crown by blocking the entire city of Wuhan with an iron fist. The heroic people of Wuhan paid a huge price, but they persevered and united to win the first battle against the epidemic in the face of the original strain of the new crown with a high lethality rate. It has maintained the normal and stable operation of the economy while ensuring the lives and health of the people across the country. The initial closure measures not only preserved the overall situation of preventing and controlling the original strain of the new crown, but also preserved the economic life on which thousands of households depended for their livelihoods, demonstrating my country's institutional advantages and the people's positive attitude towards scientific epidemic prevention.
@@ -24,13 +33,6 @@ At the same time, some capital spokesmen and those in power who rely on addition
 In order to prevent the tragedy from continuing and leave a complete memory of history, the Lockdemic.ICU project will do its best to faithfully record the abnormal deaths caused by this excessive lockdown movement. It is hoped that this project will make more people realize that our opponent and partner in epidemic prevention is nature, and the enemy of epidemic prevention is by no means the demonized scientific means of epidemic prevention and the "Western" epidemic prevention model, let alone living in the next residential area or the next city. , relatives and compatriots in neighboring provinces! Omicron is not the original strain of the new crown. As the virus continues to decrease in toxicity and infectivity continues to increase, unnecessary fear will only bring endless repeated city closures and secondary disasters with no upper limit, so that the country is caught in fire and water, If you and I live in fire and water, and the economy collapses, people will starve to death on a large scale and die of disease. The current bad situation has just begun, and we still have the opportunity to make adjustments in time to save the building. Abandon politics in command, respect science, respect front-line medical personnel, and respect the opinions of professional medical workers. And if the madness continues, you and I will both become victims of this movement. The poor will lose their jobs, sources of income, and even seriously ill family members with various diseases, while the rich will fly away, abandoning this land and taking away capital and technical management experience. Next pile of mess. Even if someone is ultimately responsible for this crazy farce, the damage it causes will be irreparable.
 
 It is hoped that scientific epidemic prevention, greatly increasing the effective vaccination rate, graded diagnosis and treatment, home isolation, and popularizing new changes in the epidemic will eliminate unnecessary fears of the public, and this can be realized as soon as possible in our land. At a critical moment, it is not shameful to "copy homework" from the public health sciences and the excellent people in Omicron's epidemic prevention.
-
-## Relevant laws and regulations
-### "Law of the People's Republic of China on the Prevention and Treatment of Infectious Diseases" [🔗](https://www.mee.gov.cn/ywgz/fgbz/fl/202002/t20200201_761166.shtml)
-#### Article 12, paragraph 2
-> If the health administrative department, other relevant departments, disease prevention and control institutions and medical institutions violate the lawful rights and interests of units and individuals by illegally implementing administrative management or prevention and control measures, the relevant units and individuals may apply for administrative reconsideration or file a lawsuit according to law.
-#### Article 58
-> Health administrative departments and their staff shall consciously accept the supervision of society and citizens when performing their duties. Units and individuals have the right to report violations of this Law to the people's government at a higher level and its health administrative department. The relevant people's government or its health administrative department that receives the report shall investigate and deal with it in a timely manner.
 
 ## References
 *The UK is the first to achieve "coexistence with the virus", and the death rate of the new crown has been lower than that of the flu [🔗](https://news.bioon.com/article/6796646.html)
