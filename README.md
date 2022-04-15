@@ -3,8 +3,6 @@ English version: https://github.com/lockdemic/Lockdemic.ICU/blob/main/README_en.
 
 救灾基本原则：救灾所造成的次生灾害，不能超过灾害本身。
 
-极端封城造成的次生灾害远超奥密克戎本身。
-
 (“Great Lockdemic”， the Great Lockdown Pandemic)
 
 ## 极端封城措施次生灾害死亡人数: 
