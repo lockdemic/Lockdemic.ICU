@@ -5,7 +5,7 @@ English version: https://github.com/lockdemic/Lockdemic.ICU/blob/main/README_en.
 
 (“Great Lockdemic”， the Great Lockdown Pandemic)
 
-## 极端封城措施次生灾害死亡人数: 
+## 极端封城措施次生灾害死亡人数(已核实):
 https://lockdemic.icu/
 ###### 暂仅能统计名人、医疗工作者、以及其他受大众和媒体关注的极端防疫或封城措施致死或牺牲的事件。封城次生灾害真实平民死亡人数尚难以统计。公共卫生统计学意义上，真实发生案例数目一般远远高于受大众和媒体广泛关注的案例数。如有未列出的案例线索，欢迎在Issues区投稿: https://github.com/lockdemic/Lockdemic.ICU/issues
 
